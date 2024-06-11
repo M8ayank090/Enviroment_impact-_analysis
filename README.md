@@ -47,22 +47,8 @@ Quantify the impact on various species and ecosystems.
 Carbon Emissions:
 
 Estimate the amount of carbon released due to deforestation.
-Use carbon stock data and deforestation rates for calculations.
-![ss7](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/1efe2e22-01d4-407c-863e-62e4ba8a702a)
-![ss7](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/1efe2e22-01d4-407c-863e-62e4ba8a702a)
-![ss6](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/130b6f79-4e29-4640-b105-872ebdc98c33)
-![ss6](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/130b6f79-4e29-4640-b105-872ebdc98c33)
-![ss5](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c94f30f9-98d4-4187-98e0-a0287c594a47)
-![ss5](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c94f30f9-98d4-4187-98e0-a0287c594a47)
-![ss4](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/eba2589e-1914-4dff-b856-7d2489ddc4d1)
-![ss4](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/eba2589e-1914-4dff-b856-7d2489ddc4d1)
-![ss3](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c1bd367d-873c-4196-a17b-26c8118f9718)
-![ss3](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c1bd367d-873c-4196-a17b-26c8118f9718)
-![ss2](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/da589243-aac0-4e96-ab04-0523dba0745b)
-![ss2](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/da589243-aac0-4e96-ab04-0523dba0745b)
-![ss1](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/b30bf004-8cac-409d-991d-0ede09a99e5a)
-![ss1](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/b30bf004-8cac-409d-991d-0ede09a99e5a)
-
+![ss1](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/793ee064-f2eb-4078-bb49-4f260d49d703)
+![ss2](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/3e232e1c-c5b4-4b53-993a-19a2856c5136)
 
 ## 🌍 Results
 
@@ -78,8 +64,17 @@ Carbon Footprint:
 
 Notable increase in carbon emissions correlated with deforestation activities.
 Quantitative estimates provided for carbon released over the study period.
+![ss6](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/5e54b73a-96cf-4886-bbbf-fdf09bf74604)
+
 ## 📈 Conclusions
 The analysis highlights severe environmental impacts on the Amazon Rainforest, including accelerated deforestation, substantial biodiversity loss, and increased carbon emissions. These findings emphasize the urgent need for effective conservation and sustainable management practices to protect this vital ecosystem.
+
+## Errors 
+You might find some errors from Google earth Engine which can be resolved by restarting the earth engine
+* ee.Initialize()
+* ee.Authenticate()
+![ss7](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/05fccf28-918f-4267-9369-0a1e237025d4)
+
 
 ## 🔮 Future Work
 Enhanced Data Collection:
