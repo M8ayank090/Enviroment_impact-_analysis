@@ -1,15 +1,15 @@
 # 🌿 Environmental Impact Analysis using Google Sentinel Data for the Amazon Rainforest 🌿
 
 ## 📖 Table of Contents
-** Introduction
-** Data Sources
-** Methodology
-** Analysis
-** Results
-** Conclusions
-** Future Work
-** Contributing
-** License
+* Introduction
+* Data Sources
+* Methodology
+* Analysis
+* Results
+* Conclusions
+* Future Work
+* Contributing
+* License
 
 ## 🌱 Introduction
 The Amazon Rainforest, often referred to as the "lungs of the Earth," plays a crucial role in the global ecosystem. This project aims to analyze the environmental impact on the Amazon Rainforest using satellite data from Google Sentinel-2. By leveraging advanced data analysis techniques, we seek to provide insights into the extent of deforestation, its impact on biodiversity, and the resulting carbon emissions.
