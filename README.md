@@ -48,7 +48,24 @@ Carbon Emissions:
 
 Estimate the amount of carbon released due to deforestation.
 Use carbon stock data and deforestation rates for calculations.
+![ss7](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/1efe2e22-01d4-407c-863e-62e4ba8a702a)
+![ss7](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/1efe2e22-01d4-407c-863e-62e4ba8a702a)
+![ss6](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/130b6f79-4e29-4640-b105-872ebdc98c33)
+![ss6](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/130b6f79-4e29-4640-b105-872ebdc98c33)
+![ss5](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c94f30f9-98d4-4187-98e0-a0287c594a47)
+![ss5](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c94f30f9-98d4-4187-98e0-a0287c594a47)
+![ss4](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/eba2589e-1914-4dff-b856-7d2489ddc4d1)
+![ss4](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/eba2589e-1914-4dff-b856-7d2489ddc4d1)
+![ss3](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c1bd367d-873c-4196-a17b-26c8118f9718)
+![ss3](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/c1bd367d-873c-4196-a17b-26c8118f9718)
+![ss2](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/da589243-aac0-4e96-ab04-0523dba0745b)
+![ss2](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/da589243-aac0-4e96-ab04-0523dba0745b)
+![ss1](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/b30bf004-8cac-409d-991d-0ede09a99e5a)
+![ss1](https://github.com/M8ayank090/Enviroment_impact-_analysis/assets/118653034/b30bf004-8cac-409d-991d-0ede09a99e5a)
+
+
 ## 🌍 Results
+
 Deforestation Trends:
 
 Significant deforestation detected in specific regions and time periods.
